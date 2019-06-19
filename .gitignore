@@ -10,4 +10,4 @@ node_modules/
 *error.log
 
 #dist
-/dist
+/build

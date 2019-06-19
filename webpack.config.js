@@ -1,4 +1,4 @@
-import path from 'path';
+const path = require('path');
 
 const rules = [{
     test: /\.tsx?$/,
