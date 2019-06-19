@@ -1,0 +1,13 @@
+#IGNORED FILES:
+
+#Dependencies
+node_modules/
+
+#Config
+.vscode/
+
+#errors
+*error.log
+
+#dist
+/dist

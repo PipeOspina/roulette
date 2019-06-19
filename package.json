@@ -1,0 +1,21 @@
+{
+  "name": "roulette",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PipeOspina/roulette.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PipeOspina/roulette/issues"
+  },
+  "homepage": "https://github.com/PipeOspina/roulette#readme"
+}
